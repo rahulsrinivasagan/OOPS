@@ -1,4 +1,5 @@
-//ABSTRACTION 
+//ABSTRACTION
+ 
 import java.io.*;
 import java.util.*;
 
@@ -67,4 +68,4 @@ public class main{
 		System.out.println("Area of Square : "+sq.calculateArea());
 	}
 }
-	
+	 
