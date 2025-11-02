@@ -65,7 +65,7 @@ class A extends Thread{
 public class Mtherad {
 
     public static void main(String[] args) {
-         A a=new A("one");
+        A a=new A("one");
         a.start();
     }    
 }
